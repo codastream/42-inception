@@ -24,7 +24,7 @@ This School 42 project consists of a complete infrastructure orchestration using
 
 # Architecture
 
-![Architecture diagram](inception.drawio.png)
+![Architecture diagram](inception-arch.drawio.png)
 
 # Wiki
 
